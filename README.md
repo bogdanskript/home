@@ -1,1 +1,0 @@
-# skriptbogdan.github.io
