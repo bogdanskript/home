@@ -1,9 +1,10 @@
 body {
-	background-image: url("images/planina.png");
+	background-color: #3c3c3c;
 }
 h1 {
 	font-size: 60px;
 	font-family: arial;
+	border-style: solid;
 }
 p {
 	font-size: 45px;
@@ -18,5 +19,24 @@ a {
 }
 #p1 {
 	text-align: center;
-	font-size: 35px;
+	font-size: 40px;
+}
+#p2 {
+	text-align: center;
+	font-size; 35px;
+}
+.Test {
+	text-align: center;
+	font-size: 60px;
+	font-family: arial;
+}
+.Test2 {
+	text-align: left;
+	font-size: 45px;
+	font-family: arial;
+	color: white;
+}
+#Kraj {
+	font-size: 60px;
+	font-family: arial;
 }
