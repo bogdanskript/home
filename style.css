@@ -5,25 +5,30 @@ h1 {
 	font-size: 60px;
 	font-family: arial;
 	border-style: solid;
+	color: white;
 }
 p {
 	font-size: 45px;
 	font-family: arial;
 	text-align: center;
+	color: white;
 }
 a {
 	text-align: center;
 	text-decoration: none;
 	color: white;
 	font-size: 45px;
+	color: white;
 }
 #p1 {
 	text-align: center;
 	font-size: 40px;
+	color: white;
 }
 #p2 {
 	text-align: center;
 	font-size; 35px;
+	color: white;
 }
 .Test {
 	text-align: center;
@@ -39,4 +44,28 @@ a {
 #Kraj {
 	font-size: 60px;
 	font-family: arial;
+	color: white;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
 }
